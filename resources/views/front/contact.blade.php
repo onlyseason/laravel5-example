@@ -1,6 +1,4 @@
-@extends('front.template')
 
-@section('main')
 	<div class="row">
 		<div class="box">
 			<div class="col-lg-12">
@@ -26,5 +24,3 @@
 
 			</div>
 		</div>
-	</div>
-@stop
